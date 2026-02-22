@@ -19,7 +19,7 @@ pygame.display.set_caption("Snake Game - 3 Levels")
 
 clock = pygame.time.Clock()
 
-WIN_SCORE = 25
+WIN_SCORE = 5
 
 level = 1
 score = 0
